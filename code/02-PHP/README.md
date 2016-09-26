@@ -1,3 +1,13 @@
-# Hello World HTML
+# Hello World PHP
 
-Modify `index.html` and make the website return a header with the phrase `Hello World`
+Modify `index.php` and make it return a phrase `Hello World`
+
+
+## Help 
+
+Open your terminal in your Editor.
+
+To run the program:
+```
+php index.php
+```

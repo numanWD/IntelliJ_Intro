@@ -1,8 +1,18 @@
-# Hello World HTML
+# Hello World java
 
-Modify `index.html` and make the website return a header with the phrase `Hello World`
+Modify `src/HelloWorld.java` and make return a phrase `Hello World`
 
 
-javac helloweow.java
+## Help 
+Java is a compile language, to run it we have to compile first.
 
-java helloword
+Open your terminal in your Editor and run
+
+```
+javac HelloWorld.java
+```
+
+To run the program:
+```
+java HelloWorld
+```

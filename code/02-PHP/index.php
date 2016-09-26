@@ -1,5 +1,5 @@
 <?php
 
-// TODO - Implement here
+// TODO Prints "Hello, World" to the terminal window.
 
-echo "ssss";
+echo "Write Something here";
