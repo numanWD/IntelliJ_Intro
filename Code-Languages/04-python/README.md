@@ -1,3 +1,5 @@
-# Hello World HTML
+# Hello World Python
 
-Modify `index.html` and make the website return a header with the phrase `Hello World`
+* Create a new file called `hello.py`
+* Use the function `print "something"` 
+* Run your code in the terminal `python hello.py`
