@@ -1,24 +1,23 @@
-# IntelliJ Keyboard Shortcuts, CVS and useful things
+# IntelliJ Keyboard Shortcuts, VCS and useful things
+
+You can find 
 
 https://www.jetbrains.com/help/idea/2016.2/meet-intellij-idea.html
 
 
-### Search in your code
+### Search everywhere
+
+IntelliJ IDEA makes it possible to look for any item of the source code, databases, actions, elements of the user interface, etc. in a single action.
 
 `<Shift> <Shift>` 
 
+e.g. Hello
+
 ### Deep Search in your project (Find in Path )
 
+Search in your `source code`. 
+
 Right bottom in the navigation
-
-
-### Emmet (generation of html code)
-
-Example
-
-Create a list of 5 elements
-
-`ul>li*5>{Element $}`
 
 
 ### Find and Replace

@@ -9,5 +9,17 @@ Have a look in the suggestion and the column on your right:
 * close <ul>  `</ul>`
 * re-format your code `<shift> + <fn> + F6`  before select your code `<cmd> + a`
 
+
+
+## Extra info
+ 
+### Emmet (generation of html code)
+
+Example
+
+Create a list of 5 elements
+
+`ul>li*5>{Element $}`
+
  
  

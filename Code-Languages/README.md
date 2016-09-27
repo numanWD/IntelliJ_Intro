@@ -1,4 +1,4 @@
-## Hello World - Exersices 
+## Hello World - Exercises 
 
 ### [HTML - Hello world](00-HTML)
 
