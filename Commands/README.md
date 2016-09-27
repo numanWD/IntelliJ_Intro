@@ -35,8 +35,6 @@ Right bottom in the navigation
 
 ### Local History and compare files
 
-`<alt> + <cmd> + L`
-
 ## Compare differences
 
 Select you files and right button

@@ -6,8 +6,9 @@ Have a look in the suggestion and the column on your right:
 
 
 * Fix url of the style - autocomplete `<ctrl> <space>`
-* close <ul>  `</ul>`
-* re-format your code `<shift> + <fn> + F6`  before select your code `<cmd> + a`
+* close \<ul> `</ul>`
+* Reformat your code `<cmd> + <alt> + L`
+* Fix and format css
 
 
 
