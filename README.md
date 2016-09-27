@@ -39,7 +39,9 @@ JetBrains IntelliJ IDEA is cross-platform. It is great, quick, flexible and have
 
 ## Instalation and Set-up
 
-Let's open IntelliJ.
+Let's clone the repo and open IntelliJ.
 
  
- 
+```
+git clone https://github.com/numanWD/IntelliJ_Intro.git
+```
